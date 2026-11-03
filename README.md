@@ -1,4 +1,4 @@
-# JesiJoshRider
+#Inventory Monitoring System
 
 from datetime import date, datetime
 
